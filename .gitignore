@@ -1,2 +1,6 @@
 img/*.jpg
+img/*.ico
+img/*.png
+*.png
+*.ico
 *.jpg
